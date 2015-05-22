@@ -1,0 +1,6 @@
+# Sequel Database Configuration
+
+development: "postgres://rodcul@localhost/datamapper_postgres_development"
+test: "postgres://rodcul@localhost/datamapper_postgres_test"
+production: "postgres://rodcul@localhost/datamapper_postgres_production"
+
